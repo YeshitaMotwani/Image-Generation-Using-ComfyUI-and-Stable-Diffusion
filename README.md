@@ -3,7 +3,6 @@
 **Link of Project:** https://mega.nz/folder/k9gzXKLa#yva7gfBpYRIIjbj5ljfEow
 
 
-
 E# ComfyUI Image Generation Workflow
 
 ![ComfyUI Workflow](path-to-screenshot.png)  
